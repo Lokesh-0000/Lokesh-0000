@@ -67,6 +67,6 @@ I am a B.Tech CSE student at SOA University, building a strong academic foundati
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Lokesh-0000&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lokesh-0000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>

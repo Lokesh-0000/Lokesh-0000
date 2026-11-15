@@ -63,10 +63,3 @@ I am a B.Tech CSE student at SOA University, building a strong academic foundati
 *(Note: Other enterprise-level hackathon architectures, such as my SIH matching engines and background AI assistants, are currently maintained in private repositories. Happy to discuss them in interviews!)*
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Lokesh-0000&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lokesh-0000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
